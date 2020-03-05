@@ -7,7 +7,7 @@
 
 #logo{
   display: block;
-  font-size: 27px;
+  font-size: 38px;
   float: left;
   width: 18%;
   color: #f3f3f3;
@@ -78,7 +78,7 @@ nav a{
 footer{
   color: #999999;
   margin-top: 50px;
-
+  width: 92%;
 }
 
 footer ul li{
@@ -86,16 +86,15 @@ footer ul li{
   text-decoration: none;
   font-size: 15px;
   padding-left: 40px;
-  padding-right: 40px;
   text-align: center;
 }
 
 footer ul{
-  text-align: center;
+  float: right;
 }
 
 .content{
-  width: 86%;
+  width: 92%;
   color: white;
   padding: 20px;
   min-height: 600px;
@@ -115,8 +114,11 @@ footer ul{
 
 #temas{
   float: left;
-  margin-top: 70px;
-  margin-left: 10px;
+  margin-left: 35px;
+}
+
+#temas h3{
+  cursor: pointer;
 }
 
 #video{
