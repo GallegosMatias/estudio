@@ -29,7 +29,7 @@
 }
 nav{
   float: right;
-  width: 51%;
+  width: 58%;
   padding-top: 35px;
 }
 
@@ -42,7 +42,7 @@ nav{
 nav ul li{
   display: inline-block;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 23px;
   padding-left: 40px;
   padding-right: 40px;
 }
@@ -109,7 +109,7 @@ footer ul{
 
 .content h3{
   padding: 25px;
-  font-size: 23px;
+  font-size: 27px;
 }
 
 #temas{
